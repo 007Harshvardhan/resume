@@ -1,0 +1,16 @@
+.circular{
+  border-radius: 120px;
+}
+body{
+  background-color: #EAF6F6;
+}
+h2{
+  color: green;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
